@@ -21,4 +21,5 @@ I’m always open to collaborating on projects that involve Python, data science
 📫 How to Reach Me:
 
 LinkedIn: [David Monteiro]([url](https://www.linkedin.com/in/david-monteiro/))
+
 GitHub: [DavidMonteiroChagas](u[rl](https://github.com/DavidMonteiroChagas))
