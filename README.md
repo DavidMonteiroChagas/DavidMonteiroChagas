@@ -20,6 +20,5 @@ I’m always open to collaborating on projects that involve Python, data science
 
 📫 How to Reach Me:
 
-LinkedIn: David Monteiro
-GitHub: DavidMonteiroChagas
-This version of your GitHub README reflects your expertise, experience, and interests while highlighting your current projects and areas of focus. Feel free to modify it as you see fit!
+LinkedIn: [David Monteiro]([url](https://www.linkedin.com/in/david-monteiro/))
+GitHub: [DavidMonteiroChagas](u[rl](https://github.com/DavidMonteiroChagas))
