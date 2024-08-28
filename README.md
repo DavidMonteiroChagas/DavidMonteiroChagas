@@ -24,4 +24,4 @@ LinkedIn: [David Monteiro](https://www.linkedin.com/in/david-monteiro-chagas/)
 
 GitHub: [DavidMonteiroChagas](https://github.com/DavidMonteiroChagas)
 
-Website: [DavidMonteiro.Net (https://davidmonteiro.net/)]
+Website: [DavidMonteiro.Net](https://davidmonteiro.net/)
